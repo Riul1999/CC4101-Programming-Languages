@@ -1,0 +1,8 @@
+El la P3 se me desconto por no "definir la operación binaria 
+mayor que y las operaciones con igual", yo no implemente estas
+operaciones porque no aparecian en la descripcion del BNF de la
+pagina 1, donde se muestra que los binop se definen como:
+<binop> ::= + | - | * | / | && | = | < | ...
+Donde no se muestran ni el > ni los <= >=, es por esto que creo
+que si bien podria haber implementado dichas funciones en mi
+lenguaje, esto no era obligatorio.
